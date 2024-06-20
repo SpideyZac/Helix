@@ -1,6 +1,6 @@
 # Helix
 
-![Picture of Double Helix](https://github.com/SpideyZac/Helix/blob/main/assets/dna.png?raw=true)
+![Picture of Double Helix](https://github.com/SpideyZac/Helix/blob/master/assets/dna.png?raw=true)
 
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/SpideyZac/Helix)
 [![Rust](https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white)](#)
